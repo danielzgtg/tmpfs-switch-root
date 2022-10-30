@@ -1,0 +1,17 @@
+/lib/systemd
+/lib/udev
+/usr/share/X11
+/usr/share/bug
+/usr/share/common-licenses
+/usr/share/dbus-1
+/usr/share/doc
+/usr/share/icons
+/usr/share/info
+/usr/share/lintian
+/usr/share/locale
+/usr/share/man
+/usr/share/polkit-1
+/usr/share/zsh
+/usr/src
+/var
+/home

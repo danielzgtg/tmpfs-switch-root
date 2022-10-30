@@ -1,0 +1,5 @@
+/.idea
+*.iml
+/cmake-build-*
+/tmpfs_bom.txt
+/config
